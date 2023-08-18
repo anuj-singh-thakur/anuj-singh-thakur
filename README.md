@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anuj Singh Thakur</h1>
-<h3 align="center">Master's Student at Indian Institute Of Technology (IIT), Guwahati, Assam</h3>
+<h3 align="center">Master's Student at Indian Institute Of Technology (IIT) Guwahati, Assam</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/anuj-singh-thakur](https://github.com/anuj-singh-thakur)
 
